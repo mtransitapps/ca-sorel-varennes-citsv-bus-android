@@ -2,11 +2,17 @@ Title: CIT Sorel-Varennes Bus (MonTransit)
 ----------
 Short description: CIT Sorel-Varennes bus information for MonTransit BETA.
 ----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from January 25, 2015 to January 1, 2020.
+----------
 Full description:
-BETA: TEST IN PROGRESS
-To leave the test: http://goo.gl/dqlmH8
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
 This application adds CIT Sorel-Varennes bus information to MonTransit BETA.
+
+CIT Sorel-Varennes serves Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable and Saint-Joseph-de-Sorel.
 
 Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
 

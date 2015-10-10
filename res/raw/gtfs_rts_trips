@@ -1,15 +1,17 @@
 70001,0,'Longueuil',700
-70000,0,'Sorel',700
+70000,0,'Sorel-Tracy',700
 70501,0,'Longueuil',705
-70500,0,'Sorel',705
+70500,0,'Sorel-Tracy',705
+70701,0,'Longueuil',707
+70700,0,'Sorel-Tracy',707
 72001,0,'Longueuil',720
 72000,0,'Varennes',720
 72101,0,'Longueuil',721
 72100,0,'Varennes',721
 72201,0,'Longueuil',722
 72200,0,'Varennes',722
-72300,0,'IREQ',723
 72301,0,'Longueuil',723
+72300,0,'Varennes (IREQ)',723
 72401,0,'Longueuil',724
 72400,0,'Varennes',724
 73001,0,'Longueuil',730

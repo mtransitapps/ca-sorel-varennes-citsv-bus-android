@@ -5,7 +5,7 @@ CIT Sorel-Varennes buses for MonTransit
 Schedule…
 ----------
 What's new in this version?:
-Schedule from January 24, 2016 to May 28, 2016.
+Schedule from May 29, 2016 to January 1, 2020.
 ----------
 Full description:
 This application adds CIT Sorel-Varennes buses information to MonTransit.

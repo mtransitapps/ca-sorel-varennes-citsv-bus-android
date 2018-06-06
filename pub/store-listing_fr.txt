@@ -1,16 +1,16 @@
-Title: Bus CIT Sorel-Varennes - MonT…
+Title: Bus RTM (CIT) Sorel-Varennes - MonTransit
 ----------
 Short description:
-Autobus CIT Sorel-Varennes pour MonTransit.
+Autobus RTM (CIT) Sorel-Varennes pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
 Horaires du 21 janvier 2018 au 1 janvier 2020.
 ----------
 Full description:
-Cette application ajoute les informations des autobus du CIT Sorel-Varennes à MonTransit.
+Cette application ajoute les informations des autobus du RTM (CIT) Sorel-Varennes à MonTransit.
 
-CIT Sorel-Varennes dessert Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable et Saint-Joseph-de-Sorel.
+RTM (CIT) Sorel-Varennes dessert Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable et Saint-Joseph-de-Sorel.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -24,4 +24,4 @@ https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et CIT Sorel-Varennes.
+Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (CIT) Sorel-Varennes.

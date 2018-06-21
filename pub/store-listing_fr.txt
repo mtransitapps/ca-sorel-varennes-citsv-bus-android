@@ -5,7 +5,7 @@ Autobus RTM (CIT) Sorel-Varennes pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
-Horaires du 21 janvier 2018 au 1 janvier 2020.
+Horaires du 24 juin 2018 au 18 août 2018.
 ----------
 Full description:
 Cette application ajoute les informations des autobus du RTM (CIT) Sorel-Varennes à MonTransit.

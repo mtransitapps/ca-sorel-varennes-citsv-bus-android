@@ -1,4 +1,4 @@
-# CIT Sorel-Varennes Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
+# exo Sorel-Varennes Bus for [MonTransit](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-sorel-varennes-citsv-bus-android/master/pub/hi-res-app-icon.png"/>
 

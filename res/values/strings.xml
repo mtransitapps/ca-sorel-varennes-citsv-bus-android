@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:locale="en">
-    <string name="app_name">MonTransit RTM Sorel-Varennes Bus</string>
-    <string name="app_desc">RTM Sorel-Varennes bus data for MonTransit.</string>
+    <string name="app_name">MonTransit exo Sorel-Varennes Bus</string>
+    <string name="app_desc">exo Sorel-Varennes bus data for MonTransit.</string>
 </resources>

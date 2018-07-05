@@ -1,16 +1,19 @@
-Title: Bus RTM (CIT) Sorel-Varennes - MonTransit
+Title: Bus exo Sorel-Varennes - MonTransit
 ----------
 Short description:
-Autobus RTM (CIT) Sorel-Varennes pour MonTransit.
+Autobus exo Sorel-Varennes pour MonTransit.
 Horaires…
 ----------
 What's new in this version?:
+(AMT/CIT => RTM => exo)
 Horaires du 24 juin 2018 au 18 août 2018.
 ----------
 Full description:
-Cette application ajoute les informations des autobus du RTM (CIT) Sorel-Varennes à MonTransit.
+Cette application ajoute les informations des autobus du exo Sorel-Varennes à MonTransit.
 
-RTM (CIT) Sorel-Varennes dessert Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable et Saint-Joseph-de-Sorel.
+Cette application contient les horaires (disponibles sans connexion).
+
+exo Sorel-Varennes dessert Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable et Saint-Joseph-de-Sorel.
 
 Une fois cette application installée, l'application MonTransit affichera les informations des autobus (horaires ...).
 
@@ -18,10 +21,13 @@ Cette application a seulement une icône temporaire et pas d'écran : téléchar
 
 Vous pouvez installer cette application sur la carte SD mais ce n'est pas recommandé.
 
-Ces horaires sont générées à partir du fichier GTFS fourni par l'Agence Métropolitaine de Transport.
-https://www.amt.qc.ca/fr/a-propos/donnees-ouvertes
+Ces horaires sont générées à partir du fichier GTFS fourni par le Réseau de Transport Métropolitain (RTM).
+https://rtm.quebec/fr/a-propos/donnees-ouvertes
 
 Cette application est gratuite et open-source : 
 https://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-android
 
-Cette application n'est pas associée à l'Agence Métropolitaine de Transport et RTM (CIT) Sorel-Varennes.
+Cette application n'est pas associée au Réseau de Transport Métropolitain (RTM), à l'Autorité Régionale de Transport Métropolitain (ARTM) ou exo Sorel-Varennes.
+
+exo Sorel-Varennes était précédemment connu sous le nom de RTM Secteur Sorel-Varennes et CIT Sorel-Varennes.
+exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).

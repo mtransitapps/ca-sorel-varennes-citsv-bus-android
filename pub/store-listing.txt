@@ -6,7 +6,7 @@ Schedule…
 ----------
 What's new in this version?:
 (AMT/CIT => RTM => exo)
-Schedule from June 24, 2018 to August 18, 2018.
+Schedule from July 3, 2018 to August 18, 2018.
 ----------
 Full description:
 This application adds exo Sorel-Varennes buses information to MonTransit.

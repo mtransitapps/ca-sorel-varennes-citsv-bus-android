@@ -7,11 +7,12 @@ Schedule…
 What's new in this version?:
 (AMT/CIT => RTM => exo)
 Schedule from August 1, 2018 to August 19, 2018.
+Tweets from @exo_SVarennes.
 ----------
 Full description:
 This application adds exo Sorel-Varennes buses information to MonTransit.
 
-This app contains the buses schedule (available offline).
+This app contains the buses schedule (available offline) and the latest news from @exo_SVarennes on Twitter.
 
 exo Sorel-Varennes serves Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable and Saint-Joseph-de-Sorel.
 
@@ -31,6 +32,9 @@ This app is not related with the Réseau de Transport Métropolitain (RTM), the 
 
 exo Sorel-Varennes was formerly known as RTM Sorel-Varennes sector and CIT Sorel-Varennes.
 exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence Métropolitaine de Transport (AMT).
+
+Permissions:
+- Other: required for news from citso.org and Twitter.
 ----------
 Application type: Applications
 ----------

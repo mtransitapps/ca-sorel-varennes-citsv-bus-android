@@ -7,11 +7,12 @@ Horaires…
 What's new in this version?:
 (AMT/CIT => RTM => exo)
 Horaires du 1 août 2018 au 19 août 2018.
+Tweets de @exo_SVarennes.
 ----------
 Full description:
 Cette application ajoute les informations des autobus du exo Sorel-Varennes à MonTransit.
 
-Cette application contient les horaires (disponibles sans connexion).
+Cette application contient les horaires (disponibles sans connexion) et les dernières nouvelles de @exo_SVarennes sur Twitter.
 
 exo Sorel-Varennes dessert Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable et Saint-Joseph-de-Sorel.
 
@@ -31,3 +32,6 @@ Cette application n'est pas associée au Réseau de Transport Métropolitain (RT
 
 exo Sorel-Varennes était précédemment connu sous le nom de RTM Secteur Sorel-Varennes et CIT Sorel-Varennes.
 exo était précédemment connu sou le nom de Réseau de Transport Métropolitain (RTM) et Agence Métropolitaine de Transport (AMT).
+
+Autorisations :
+- Autres: requis pour lire les nouvelles de citso.org et Twitter.

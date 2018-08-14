@@ -2,7 +2,7 @@ Title: exo Sorel-Varennes Bus - MonTransit
 ----------
 Short description:
 exo Sorel-Varennes buses for MonTransit
-Schedule…
+Schedules. News.
 ----------
 What's new in this version?:
 (AMT/CIT => RTM => exo)

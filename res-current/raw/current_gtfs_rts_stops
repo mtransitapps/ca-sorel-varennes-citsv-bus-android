@@ -127,6 +127,9 @@
 70163,'70163','Route Marie-Victorin / 3390',45.711036,-73.423066
 70182,'70182','Route Marie-Victorin / Mtée De La Baronnie',45.730392,-73.412511
 70183,'70183','Route Marie-Victorin / Mtée De La Baronnie',45.730632,-73.412488
+70200,'70200','Cardinal / Martinets',45.63692,-73.296846
+70201,'70201','Principale / Daniel',45.649268,-73.298666
+70202,'70202','Cyrille-Lapointe / Martin',45.635089,-73.294169
 70219,'70219','154 Rue Principale (Ultramar)',45.635858,-73.31684
 70220,'70220','154 Rue Principale (Ultramar)',45.635738,-73.31655
 70221,'70221','Auger Près De La Rue Principale',45.633112,-73.320348
@@ -382,6 +385,19 @@
 70719,'70719','Terminus De Sorel',46.037747,-73.088311
 70720,'70720','Morgan / Poliquin',46.040729,-73.084623
 70721,'70721','Morgan / Poliquin',46.040856,-73.084444
+71026,'71026','Principale / Parc Ind. Coulombe',45.603869,-73.320713
+71033,'71033','Principale / Parc Ind. Coulombe',45.604045,-73.320625
+71034,'71034','Fer-À-Cheval / 765',45.60804,-73.326812
+71047,'71047','Fer-À-Cheval / 765',45.608072,-73.327033
+71200,'71200','Fer-À-Cheval / St-Joseph',45.584973,-73.326615
+71201,'71201','Fer-À-Cheval / Jules-Choquet',45.586677,-73.326692
+71202,'71202','Fer-À-Cheval / Marguerites',45.59326,-73.327511
+71203,'71203','Fer-À-Cheval / Pervenches',45.596633,-73.328157
+71221,'71221','Fer-À-Cheval / St-Joseph',45.585273,-73.326786
+71294,'71294','Fer-À-Cheval / Marguerites',45.593385,-73.327706
+71296,'71296','Fer-À-Cheval / Jules-Choquet',45.58673,-73.326945
+71321,'71321','Terminus Ste-Julie',45.582239,-73.323893
+71356,'71356','Fer-À-Cheval / Pervenches',45.596767,-73.328349
 101064,'BOU64A','Route 132 / Sortie Bv-Marie-Victorin',45.591467,-73.461086
 103063,'BOU63C','Route 132 / Sortie Boul. Marie-Victorin',45.591802,-73.461203
 201006,'LON6A','Route 132 / Roland-Therrien',45.548686,-73.495842

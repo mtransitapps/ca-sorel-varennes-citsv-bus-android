@@ -3,6 +3,12 @@
 70005,'70005','Thurber / Cégep Édouard-Montpetit',45.536469,-73.496211
 70007,'70007','Route 132 / Montbrun',45.612533,-73.440063
 70008,'70008','Route 132 / Montbrun',45.612389,-73.439603
+70010,'70010','Roi / Adélaïde',46.039044,-73.113881
+70011,'70011','Roi / Adélaïde',46.039209,-73.114208
+70012,'70012','Chemin Des Patriotes / Collège',46.036472,-73.113659
+70013,'70013','Chemin Des Patriotes / Collège',46.036279,-73.113476
+70014,'70014','Gagné / St-Nicolas',46.029337,-73.116333
+70015,'70015','Gagné / St-Nicolas',46.029269,-73.115885
 70021,'70021','IREQ (Barriére De Sécurité)',45.617998,-73.379325
 70022,'70022','Lionel-Boulet / 1650 (INRS)',45.62544,-73.382465
 70023,'70023','Lionel-Boulet / 1615 (Canmet)',45.625591,-73.382236
@@ -189,8 +195,8 @@
 70282,'70282','Principale / David',45.645913,-73.301907
 70283,'70283','Principale / Cardinal',45.6421,-73.307193
 70284,'70284','Principale / IGA',45.642374,-73.306423
-70285,'70285','Bourgeois / Ouellette',45.639958,-73.302497
-70286,'70286','Ouellette / Bourgeois',45.63988,-73.302156
+70285,'70285','Cardinal / Ouellette',45.639958,-73.302497
+70286,'70286','Cardinal / Bourgeois',45.63988,-73.302156
 70287,'70287','Cardinal / Martinets',45.636978,-73.297095
 70288,'70288','Martinets / Cardinal',45.636865,-73.29701
 70289,'70289','Martinets / Boisjoli',45.633581,-73.29891
@@ -346,7 +352,7 @@
 70648,'70648','Route Marie-Victorin / Filiatrault',46.039793,-73.129411
 70649,'70649','Route Marie-Victorin / Filiatrault',46.039975,-73.129145
 70650,'70650','Route Marie-Victorin / Mtée St-Roch',46.039846,-73.127458
-70651,'70651','Route Marie-Victorin / Chemin St-Roch',46.039995,-73.127207
+70651,'70651','Chemin St-Roch / Route Marie-Victorin',46.039346,-73.126555
 70652,'70652','Route Marie-Victorin / Decelles',46.039939,-73.123548
 70653,'70653','Route Marie-Victorin / Decelles',46.040112,-73.12324
 70662,'70662','Roy / Charlotte',46.042963,-73.115471

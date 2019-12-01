@@ -1,15 +1,3 @@
-Title: Bus exo Sorel-Varennes - MonTransit
-----------
-Short description:
-Autobus exo Sorel-Varennes pour MonTransit.
-Horaires. Nouvelles.
-----------
-What's new in this version?:
-(AMT/CIT => RTM => exo)
-Horaires du 27 septembre 2019 au 22 décembre 2019.
-Tweets de @exo_SVarennes.
-----------
-Full description:
 Cette application ajoute les informations des autobus du exo Sorel-Varennes à MonTransit.
 
 Cette application contient les horaires (disponibles sans connexion) et les dernières nouvelles de @exo_SVarennes sur Twitter.

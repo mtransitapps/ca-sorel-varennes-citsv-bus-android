@@ -1,15 +1,3 @@
-Title: exo Sorel-Varennes Bus - MonTransit
-----------
-Short description:
-exo Sorel-Varennes buses for MonTransit
-Schedules. News.
-----------
-What's new in this version?:
-(AMT/CIT => RTM => exo)
-Schedule from September 27, 2019 to December 22, 2019.
-Tweets from @exo_SVarennes.
-----------
-Full description:
 This application adds exo Sorel-Varennes buses information to MonTransit.
 
 This app contains the buses schedule (available offline) and the latest news from @exo_SVarennes on Twitter.
@@ -18,7 +6,7 @@ exo Sorel-Varennes serves Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-
 
 Once this application is installed, the MonTransit app will display buses information (schedule...).
 
-This application only has a temporary icon and no screen: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+This application only has a temporary icon: download the MonTransit app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
 
 You can install this application on the SD card but it is not recommended.
 
@@ -35,17 +23,3 @@ exo was formerly known as Réseau de Transport Métropolitain (RTM) and Agence M
 
 Permissions:
 - Other: required for news from citso.org and Twitter.
-----------
-Application type: Applications
-----------
-Category: Transportation
-----------
-Content rating: Low Maturity
-----------
-Website: https://github.com/mtransitapps/ca-sorel-varennes-citsv-bus-android
-----------
-Email: mtransit.apps+GooglePlay@gmail.com
-----------
-Phone: 
-----------
-Privacy Policy: https://github.com/mtransitapps/mtransit-for-android/wiki/PrivacyPolicy

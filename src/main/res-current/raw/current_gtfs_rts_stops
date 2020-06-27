@@ -288,6 +288,8 @@
 70597,'70597','Route Marie-Victorin / Hydro-Québec',45.994889,-73.172173
 70600,'70600','Marie-Victorin / Joseph-Simard',46.002129,-73.167974
 70601,'70601','Marie-Victorin / Joseph-Simard',46.002482,-73.168216
+70602,'70602','Bourget / St-Roch',46.033393,-73.13261
+70603,'70603','Bourget / St-Roch',46.033183,-73.132598
 70604,'70604','Marie-Victorin / Chantiers',46.004777,-73.166554
 70605,'70605','Marie-Victorin / Chantiers',46.005148,-73.166773
 70606,'70606','Marie-Victorin / Valois',46.009271,-73.164197
@@ -300,8 +302,6 @@
 70619,'70619','Érables / Plaza',46.021921,-73.152992
 70620,'70620','Tracy / Major-Beaudet',46.015165,-73.155154
 70621,'70621','Tracy / Major-Beaudet',46.015471,-73.15523
-70622,'70622','Tracy / Plaza',46.015241,-73.154383
-70623,'70623','Plaza / Tracy',46.015583,-73.15417
 70624,'70624','Érables / St-Laurent',46.022187,-73.154715
 70625,'70625','Érables / St-Laurent',46.022048,-73.154756
 70626,'70626','Stat Incitatif Plaza De Tracy',46.019375,-73.151798
@@ -378,7 +378,6 @@
 71321,'71321','Terminus Ste-Julie - Quai 4',45.582239,-73.323893
 71356,'71356','Fer-À-Cheval / Pervenches',45.596767,-73.328349
 101064,'BOU64A','Route 132 / Sortie Bv-Marie-Victorin',45.591467,-73.461086
-103063,'BOU63C','Route 132 / Sortie Boul. Marie-Victorin',45.591802,-73.461203
 201006,'LON6A','Route 132 / Roland-Therrien',45.548686,-73.495842
 201030,'LON30A','Marie-Victorin / N.-D.-De-Fatima',45.571455,-73.483785
 203006,'LON6C','Route 132 / Roland-Therrien',45.547691,-73.495347

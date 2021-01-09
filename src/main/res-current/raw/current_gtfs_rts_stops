@@ -45,12 +45,10 @@
 70055,'70055','Route 132 / Gabelle',45.668093,-73.430845
 70056,'70056','Petit-Bois / Riv',45.668734,-73.429397
 70057,'70057','Petit-Bois / Riviére',45.669013,-73.429266
-70058,'70058','Stat Incitatif Jules-Phaneuf',45.672877,-73.426152
 70059,'70059','Stat Incitatif Jules-Phaneuf',45.672901,-73.426388
 70061,'70061','St-Laurent / Marie-Victorin',45.670511,-73.434831
 70062,'70062','Jules-Phaneuf / René-Gaultier',45.673347,-73.426163
 70063,'70063','René-Gaultier / Jules-Phaneuf',45.673573,-73.426457
-70065,'70065','René-Gaultier / Jules-Phaneuf',45.67381,-73.426006
 70066,'70066','René-Gaultier / Doucet',45.673769,-73.430163
 70067,'70067','René-Gaultier / Doucet',45.673501,-73.430366
 70068,'70068','René-Gaultier / Aqueduc',45.67446,-73.431736
@@ -401,7 +399,6 @@
 71221,'71221','Fer-À-Cheval / St-Joseph',45.585273,-73.326786
 71294,'71294','Fer-À-Cheval / Marguerites',45.593385,-73.327706
 71296,'71296','Fer-À-Cheval / Jules-Choquet',45.58673,-73.326945
-71321,'71321','Terminus Ste-Julie - Quai 6',45.582791,-73.322973
 71323,'71323','Terminus Ste-Julie - Quai 1',45.582248,-73.32386
 71333,'71333','Terminus Ste-Julie - Quai 1',45.582241,-73.323916
 71356,'71356','Fer-À-Cheval / Pervenches',45.596767,-73.328349

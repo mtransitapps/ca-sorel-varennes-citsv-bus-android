@@ -1,5 +1,5 @@
-70000,'70000','Terminus Longueuil Porte 4',45.524347,-73.522601
-70001,'70001','Terminus Longueuil Porte 5',45.524297,-73.522606
+70000,'70000','Term Longueuil P:4',45.524347,-73.522601
+70001,'70001','Term Longueuil P:5',45.524297,-73.522606
 70004,'70004','Gentilly / Cégep Édouard-Montpetit',45.536175,-73.496061
 70005,'70005','Thurber / Gentilly Est',45.536469,-73.496211
 70007,'70007','Route 132 / Montbrun',45.612533,-73.440063
@@ -289,7 +289,7 @@
 70481,'70481','Marie-Victorin / Malards',45.871864,-73.222908
 70494,'70494','Marie-Victorin / 8e Av',45.885772,-73.211824
 70495,'70495','Marie-Victorin / 8e Av',45.886003,-73.211806
-70500,'70500','Terminus De Montarville',45.601071,-73.450301
+70500,'70500','Term De Montarville',45.601071,-73.450301
 70522,'70522','Marie-Victorin / Mtée St-Roch',45.917089,-73.206922
 70523,'70523','Marie-Victorin / Mtée St-Roch',45.917474,-73.207216
 70530,'70530','Marie-Victorin / Veillette',45.932824,-73.206352
@@ -384,8 +384,8 @@
 70713,'70713','Poliquin / Fiset',46.034487,-73.09124
 70716,'70716','Morgan / Crépeau',46.043001,-73.08768
 70717,'70717','Morgan / Crépeau',46.042972,-73.08735
-70718,'70718','Terminus De Sorel',46.037695,-73.088241
-70719,'70719','Terminus De Sorel',46.037747,-73.088311
+70718,'70718','Term De Sorel',46.037695,-73.088241
+70719,'70719','Term De Sorel',46.037747,-73.088311
 70720,'70720','Morgan / Poliquin',46.040729,-73.084623
 70721,'70721','Morgan / Poliquin',46.040856,-73.084444
 71026,'71026','Principale / Coulombe',45.603869,-73.320713
@@ -399,11 +399,11 @@
 71221,'71221','Fer-À-Cheval / St-Joseph',45.585273,-73.326786
 71294,'71294','Fer-À-Cheval / Marguerites',45.593385,-73.327706
 71296,'71296','Fer-À-Cheval / Jules-Choquet',45.58673,-73.326945
-71323,'71323','Terminus Ste-Julie - Quai 1',45.582248,-73.32386
-71333,'71333','Terminus Ste-Julie - Quai 1',45.582241,-73.323916
+71323,'71323','Term Ste-Julie - Q:1',45.582248,-73.32386
+71333,'71333','Term Ste-Julie - Q:1',45.582241,-73.323916
 71356,'71356','Fer-À-Cheval / Pervenches',45.596767,-73.328349
 201006,'LON6A','Route 132 / Roland-Therrien',45.548686,-73.495842
 203006,'LON6C','Route 132 / Roland-Therrien',45.547691,-73.495347
-301146,'VAR146A','IREQ (Labo D''expérimentation)',45.623588,-73.391857
+301146,'VAR146A','IREQ (Labo D''Expérimentation)',45.623588,-73.391857
 302109,'VAR109B','IREQ (Pavillon Lionel-Boulet)',45.620849,-73.379115
 302156,'VAR156B','IREQ (Pavillon Archiméde)',45.620287,-73.392499

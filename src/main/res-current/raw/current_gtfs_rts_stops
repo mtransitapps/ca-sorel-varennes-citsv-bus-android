@@ -45,7 +45,7 @@
 70055,'70055','Route 132 / Gabelle',45.668093,-73.430845
 70056,'70056','Petit-Bois / Riv',45.668734,-73.429397
 70057,'70057','Petit-Bois / Riviére',45.669013,-73.429266
-70059,'70059','Stat Incitatif Jules-Phaneuf',45.672901,-73.426388
+70059,'70059','P+R Jules-Phaneuf',45.672901,-73.426388
 70061,'70061','St-Laurent / Marie-Victorin',45.670511,-73.434831
 70062,'70062','Jules-Phaneuf / René-Gaultier',45.673347,-73.426163
 70063,'70063','René-Gaultier / Jules-Phaneuf',45.673573,-73.426457
@@ -326,8 +326,8 @@
 70621,'70621','Tracy / Major-Beaudet',46.015471,-73.15523
 70624,'70624','Érables / St-Laurent',46.022187,-73.154715
 70625,'70625','Érables / St-Laurent',46.022048,-73.154756
-70626,'70626','Stat Incitatif Plaza De Tracy',46.019375,-73.151798
-70627,'70627','Stat Incitatif Plaza De Tracy',46.019404,-73.151793
+70626,'70626','P+R Plaza De Tracy',46.019375,-73.151798
+70627,'70627','P+R Plaza De Tracy',46.019404,-73.151793
 70628,'70628','Marie-Victorin / Lilas',46.027348,-73.155362
 70629,'70629','Marie-Victorin / Lilas',46.027513,-73.155606
 70630,'70630','Érables / Marie-Victorin',46.022769,-73.157581

@@ -1,7 +1,10 @@
 70000,'70000','Term Longueuil P:4',45.524347,-73.522601
 70001,'70001','Term Longueuil P:5',45.524297,-73.522606
+70002,'70002','IREQ (Pavillon Lionel-Boulet)',45.620943,-73.379047
+70003,'70003','IREQ (Labo D''Expérimentation)',45.623608,-73.391767
 70004,'70004','Gentilly / Cégep Édouard-Montpetit',45.536175,-73.496061
 70005,'70005','Thurber / Gentilly E',45.536469,-73.496211
+70006,'70006','IREQ (Pavillon Archimède)',45.620291,-73.392454
 70007,'70007','Route 132 / Montbrun',45.612533,-73.440063
 70008,'70008','Route 132 / Montbrun',45.612389,-73.439603
 70010,'70010','Roi / Adélaïde',46.039044,-73.113881
@@ -404,6 +407,3 @@
 71356,'71356','Fer-À-Cheval / Pervenches',45.596767,-73.328349
 201006,'LON6A','Route 132 / Roland-Therrien',45.548686,-73.495842
 203006,'LON6C','Route 132 / Roland-Therrien',45.547691,-73.495347
-301146,'VAR146A','IREQ (Labo D''Expérimentation)',45.623588,-73.391857
-302109,'VAR109B','IREQ (Pavillon Lionel-Boulet)',45.620849,-73.379115
-302156,'VAR156B','IREQ (Pavillon Archiméde)',45.620287,-73.392499

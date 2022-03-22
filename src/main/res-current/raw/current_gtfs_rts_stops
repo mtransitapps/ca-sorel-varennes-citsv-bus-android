@@ -2,8 +2,8 @@
 70001,'70001','Term Longueuil P:5',45.524297,-73.522606
 70002,'70002','IREQ (Pavillon Lionel-Boulet)',45.620943,-73.379047
 70003,'70003','IREQ (Labo D''Expérimentation)',45.623608,-73.391767
-70004,'70004','Gentilly / Cégep Édouard-Montpetit',45.536175,-73.496061
-70005,'70005','Thurber / Gentilly E',45.536469,-73.496211
+70004,'70004','Cégep Édouard-Montpetit',45.536684,-73.495552
+70005,'70005','Gentilly / Thurber',45.536469,-73.496211
 70006,'70006','IREQ (Pavillon Archimède)',45.620291,-73.392454
 70007,'70007','Route 132 / Montbrun',45.612533,-73.440063
 70008,'70008','Route 132 / Montbrun',45.612389,-73.439603
@@ -250,8 +250,9 @@
 70342,'70342','Marie-Victorin / St-Alexandre',45.774597,-73.360959
 70343,'70343','Marie-Victorin / St-Alexandre',45.774782,-73.360798
 70344,'70344','Marie-Victorin / Henri-Lapierre',45.775661,-73.358014
-70345,'70345','Marie-Victorin / Mtée Calixa-Lavallée',45.776468,-73.356578
+70345,'70345','Marie-Victorin / Henri-Lapierre',45.775809,-73.357952
 70346,'70346','Marie-Victorin / Bissonnette',45.777927,-73.353545
+70347,'70347','Marie-Victorin / Ste-Famille',45.77785,-73.354113
 70348,'70348','Marie-Victorin / Pierre-Boisseau',45.779231,-73.350911
 70349,'70349','Marie-Victorin / Pierre-Boisseau',45.779331,-73.351028
 70350,'70350','Laurier / Parc',45.769223,-73.364485
@@ -282,8 +283,8 @@
 70457,'70457','Marie-Victorin / Charron',45.855197,-73.241664
 70460,'70460','Marie-Victorin / Ducharme',45.856973,-73.23902
 70461,'70461','Marie-Victorin / Ducharme',45.857244,-73.239134
-70462,'70462','Ctr Sportif Régional De Contrecoeur',45.855611,-73.2247
-70463,'70463','Ctr Sportif Régional De Contrecoeur',45.855647,-73.224668
+70462,'70462','Term Contrecoeur',45.855611,-73.2247
+70463,'70463','Term Contrecoeur',45.855647,-73.224668
 70464,'70464','Marie-Victorin / Pagé',45.860002,-73.234881
 70465,'70465','Marie-Victorin / Pagé',45.860267,-73.234933
 70468,'70468','Marie-Victorin / Robert',45.862563,-73.231499
@@ -312,7 +313,7 @@
 70584,'70584','Marie-Victorin / Golf',45.986699,-73.176009
 70585,'70585','Marie-Victorin / Golf',45.986995,-73.176149
 70596,'70596','Marie-Victorin / Hydro-Québec',45.994765,-73.171698
-70597,'70597','Route Marie-Victorin / Hydro-Québec',45.994889,-73.172173
+70597,'70597','Marie-Victorin / Hydro-Québec',45.994889,-73.172173
 70600,'70600','Marie-Victorin / Joseph-Simard',46.002129,-73.167974
 70601,'70601','Marie-Victorin / Joseph-Simard',46.002482,-73.168216
 70602,'70602','Bourget / St-Roch',46.033393,-73.13261
@@ -327,8 +328,8 @@
 70617,'70617','Marie-Victorin / Tracy',46.014849,-73.161682
 70618,'70618','Plaza / Érables',46.021857,-73.152798
 70619,'70619','Érables / Plaza',46.021921,-73.152992
-70620,'70620','Tracy / Major-Beaudet',46.015165,-73.155154
-70621,'70621','Tracy / Major-Beaudet',46.015471,-73.15523
+70620,'70620','Tracy / Major-Beaudet (CÉGEP Sorel-Tracy)',46.015165,-73.155154
+70621,'70621','Tracy / Major-Beaudet (CÉGEP Sorel-Tracy)',46.015471,-73.15523
 70624,'70624','Érables / St-Laurent',46.022187,-73.154715
 70625,'70625','Érables / St-Laurent',46.022048,-73.154756
 70626,'70626','P+R Plaza De Tracy',46.019375,-73.151798
@@ -386,11 +387,12 @@
 70709,'70709','Morgan / Dumas',46.045287,-73.090507
 70710,'70710','Fiset / Monseigneur-Desranleau',46.036112,-73.093943
 70711,'70711','Fiset / Monseigneur-Desranleau',46.036037,-73.093496
+70712,'70712','Poliquin / Fiset',46.034544,-73.090575
 70713,'70713','Poliquin / Fiset',46.034487,-73.09124
 70716,'70716','Morgan / Crépeau',46.043001,-73.08768
 70717,'70717','Morgan / Crépeau',46.042972,-73.08735
 70718,'70718','Term De Sorel',46.037695,-73.088241
-70719,'70719','Term De Sorel',46.037747,-73.088311
+70719,'70719','Term De Sorel',46.037626,-73.088162
 70720,'70720','Morgan / Poliquin',46.040729,-73.084623
 70721,'70721','Morgan / Poliquin',46.040856,-73.084444
 71026,'71026','Principale / Coulombe',45.603869,-73.320713

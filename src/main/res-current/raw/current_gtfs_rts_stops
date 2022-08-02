@@ -5,7 +5,7 @@
 70004,'70004','Cégep Édouard-Montpetit',45.536684,-73.495552
 70005,'70005','Gentilly / Thurber',45.536469,-73.496211
 70006,'70006','IREQ (Pavillon Archimède)',45.620291,-73.392454
-70007,'70007','Route 132 / Montbrun',45.612533,-73.440063
+70007,'70007','Route 132 / Montbrun',45.612543,-73.440088
 70008,'70008','Route 132 / Montbrun',45.612389,-73.439603
 70020,'70020','Term Temp Radisson (Rue Du Trianon)',45.590456,-73.540802
 70021,'70021','IREQ (Barrière De Sécurité)',45.617998,-73.379325
@@ -90,7 +90,7 @@
 70110,'70110','Quévillon / Amos',45.684032,-73.425779
 70111,'70111','Quévillon / Amos',45.684011,-73.426038
 70112,'70112','Marie-Victorin / Vincent',45.683989,-73.435768
-70113,'70113','Marie-Victorin / Vincent',45.684177,-73.435768
+70113,'70113','Marie-Victorin / Vincent',45.684198,-73.435804
 70114,'70114','Ste-Anne / Youville',45.684844,-73.442707
 70115,'70115','Youville / Ste-Anne',45.684721,-73.442443
 70116,'70116','Quévillon / Brodeur',45.685136,-73.428573
@@ -130,7 +130,7 @@
 70162,'70162','Marie-Victorin / #3405 (Kemira)',45.711042,-73.422883
 70163,'70163','Marie-Victorin / 3390 (Face À Kemira)',45.711036,-73.423066
 70182,'70182','Marie-Victorin / Mtée De La Baronnie',45.730392,-73.412511
-70183,'70183','Marie-Victorin / Mtée De La Baronnie',45.730632,-73.412488
+70183,'70183','Marie-Victorin / Mtée De La Baronnie',45.730639,-73.412506
 70200,'70200','Cardinal / Martinets',45.63692,-73.296846
 70201,'70201','Principale / Daniel',45.649268,-73.298666
 70202,'70202','Cyrille-Lapointe / Martin',45.635089,-73.294169
@@ -161,9 +161,9 @@
 70249,'70249','Église N / Eugéne',45.65288,-73.296391
 70250,'70250','Église N / Eugéne',45.652924,-73.296285
 70251,'70251','Katy / Principale',45.675722,-73.270195
-70252,'70252','Katy / Principale',45.675729,-73.270215
+70252,'70252','Jeannine / Principale',45.675713,-73.270241
 70253,'70253','Pascal / Jeannine',45.677764,-73.26809
-70254,'70254','Jeannine / Pascal',45.677785,-73.268062
+70254,'70254','Katy / Pascal',45.677785,-73.268062
 70255,'70255','Principale / Joliette N',45.675201,-73.27074
 70256,'70256','Principale / Joliette S',45.674939,-73.270859
 70257,'70257','Cardinal / #229',45.641284,-73.304869
@@ -240,13 +240,13 @@
 70338,'70338','Marie-Victorin / Laurier',45.770931,-73.366316
 70339,'70339','Marie-Victorin / Laurier',45.771046,-73.366564
 70340,'70340','Marie-Victorin / #438',45.773699,-73.363109
-70341,'70341','Marie-Victorin / #445',45.773807,-73.363226
+70341,'70341','Marie-Victorin / #445',45.773839,-73.363255
 70342,'70342','Marie-Victorin / St-Alexandre',45.774597,-73.360959
 70343,'70343','Marie-Victorin / St-Alexandre',45.774782,-73.360798
 70344,'70344','Marie-Victorin / Henri-Lapierre',45.775661,-73.358014
 70345,'70345','Marie-Victorin / Henri-Lapierre',45.775809,-73.357952
 70346,'70346','Marie-Victorin / Bissonnette',45.777927,-73.353545
-70347,'70347','Marie-Victorin / Ste-Famille',45.77785,-73.354113
+70347,'70347','Marie-Victorin / Ste-Famille',45.77833,-73.353432
 70348,'70348','Marie-Victorin / Pierre-Boisseau',45.779231,-73.350911
 70349,'70349','Marie-Victorin / Pierre-Boisseau',45.779331,-73.351028
 70350,'70350','Laurier / Parc',45.769223,-73.364485
@@ -274,8 +274,8 @@
 70457,'70457','Marie-Victorin / Charron',45.855197,-73.241664
 70460,'70460','Marie-Victorin / Ducharme',45.856973,-73.23902
 70461,'70461','Marie-Victorin / Ducharme',45.857244,-73.239134
-70462,'70462','Term Contrecoeur',45.855576,-73.224794
-70463,'70463','Term Contrecoeur',45.855647,-73.224668
+70462,'70462','Term Contrecoeur Q:1',45.855578,-73.224793
+70463,'70463','Term Contrecoeur Q:2',45.855647,-73.224668
 70464,'70464','Marie-Victorin / Pagé',45.860002,-73.234881
 70465,'70465','Marie-Victorin / Pagé',45.860267,-73.234933
 70468,'70468','Marie-Victorin / Robert',45.862563,-73.231499

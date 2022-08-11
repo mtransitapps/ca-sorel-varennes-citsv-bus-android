@@ -1,6 +1,6 @@
 This application adds exo Sorel-Varennes buses information to MonTransit.
 
-This app contains the buses schedule (available offline) and the latest news from @exo_SVarennes on Twitter.
+This app contains the buses schedule (available offline) and the latest news from @exo_Sud on Twitter.
 
 exo Sorel-Varennes serves Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable and Saint-Joseph-de-Sorel.
 

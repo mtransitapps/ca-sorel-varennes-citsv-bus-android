@@ -3,6 +3,8 @@
 53200,0,'Varennes',532
 70001,0,'Longueuil',700
 70000,0,'Sorel-Tracy',700
+70100,0,'Contrecoeur',701
+70101,0,'Longueuil',701
 70700,0,'Contrecoeur',707
 70701,0,'Longueuil',707
 70900,0,'Contrecoeur',709
@@ -17,13 +19,10 @@
 72200,0,'Varennes',722
 72301,0,'Longueuil',723
 72300,0,'Varennes (IREQ)',723
-72401,0,'Longueuil',724
-72400,0,'Varennes',724
 73001,0,'Longueuil',730
 73000,0,'St-Amable',730
 73101,0,'Longueuil',731
 73100,0,'St-Amable',731
 73201,0,'Longueuil',732
 73200,0,'St-Amable',732
-73301,0,'Longueuil',733
 73300,0,'St-Amable',733

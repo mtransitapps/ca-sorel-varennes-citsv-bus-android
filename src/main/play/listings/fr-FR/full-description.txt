@@ -1,6 +1,6 @@
 Cette application ajoute les informations des autobus du exo Sorel-Varennes à MonTransit.
 
-Cette application contient les horaires (disponibles sans connexion) et les dernières nouvelles de @allo_exo et @exo_SVarennes sur Twitter.
+Cette application contient les horaires (disponibles sans connexion) et les dernières nouvelles de @allo_exo et @exo_Sud sur Twitter.
 
 exo Sorel-Varennes dessert Sorel-Tracy, Varennes, Verchères, Contrecœur, Saint-Amable et Saint-Joseph-de-Sorel.
 

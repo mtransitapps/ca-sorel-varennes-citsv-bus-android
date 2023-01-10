@@ -7,8 +7,8 @@
 70006,'70006','IREQ (Pavillon Archimède)',45.620291,-73.392454
 70007,'70007','Route 132 / Montbrun',45.612543,-73.440088
 70008,'70008','Route 132 / Montbrun',45.612389,-73.439603
-70018,'70018','Term Radisson S (Débarcadère)',45.590042,-73.538625
 70019,'70019','Term Radisson S Q:4',45.589473,-73.537373
+70020,'70020','Term Radisson S Q:3',45.589539,-73.537585
 70021,'70021','IREQ (Barrière De Sécurité)',45.617998,-73.379325
 70022,'70022','Lionel-Boulet / INRS',45.62544,-73.382465
 70023,'70023','Lionel-Boulet / #1615 (CanmetÉNERGIE)',45.625591,-73.382236
@@ -128,7 +128,6 @@
 70149,'70149','Marie-Victorin / Ste-Anne',45.691043,-73.429095
 70150,'70150','Marie-Victorin / #2801',45.697463,-73.425535
 70151,'70151','Marie-Victorin / #2801',45.697587,-73.425828
-70155,'70155','Tellier / (Face À SAQ)',45.585951,-73.52174
 70162,'70162','Marie-Victorin / #3405 (Kemira)',45.711042,-73.422883
 70163,'70163','Marie-Victorin / 3390 (Face À Kemira)',45.711036,-73.423066
 70182,'70182','Marie-Victorin / Mtée De La Baronnie',45.730392,-73.412511
@@ -333,6 +332,15 @@
 70727,'70727','St-Antoine / Heureux',45.856356,-73.23597
 70728,'70728','Bourgchemin / St-Antoine',45.853451,-73.227553
 70729,'70729','St-Antoine / Patriotes',45.853029,-73.22823
+70730,'70730','Patriotes / Laurent-Hubert',45.85007,-73.228985
+70731,'70731','Patriotes / Joseph-Lamoureux',45.849862,-73.228952
+70732,'70732','Patriotes / Olivier-Gloutnez',45.848851,-73.229801
+70733,'70733','Patriotes / Olivier-Gloutnez',45.848665,-73.229746
+70734,'70734','Patriotes / Jean-Moreau-Desjordy',45.847338,-73.23104
+70735,'70735','Patriotes / Jean-Moreau-Desjordy',45.847153,-73.23099
+70736,'70736','Patriotes / Louis-Fiset',45.843825,-73.231468
+70737,'70737','Patriotes / Louis-Fiset',45.843624,-73.231462
+70739,'70739','Patriotes / St-Antoine',45.852678,-73.227598
 71014,'71014','Chambly / St-Charles',45.541135,-73.508609
 71026,'71026','Principale / Coulombe',45.603869,-73.320713
 71033,'71033','Principale / Coulombe',45.604045,-73.320625

@@ -1,1 +1,1 @@
-exo Sorel-Varennes buses for MonTransit. Schedules. News.
+exo Sorel-Varennes buses for MonTransit. Schedule. Service Status. News.

@@ -1,8 +1,8 @@
-'SV-H26-SVGTFS-Fête-1-01',37000,92750,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,9300,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,10000,0,'Principale<>Cardinal<>Ste-Julie',0
-'SV-H26-SVGTFS-Fête-1-01',37001,160020,0,'Ste-Julie<>Cardinal<>Principale',0,5100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0,9100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0
-'SV-H26-SVGTFS-Week-end-01',37000,92750,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,9300,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,10000,0,'Principale<>Cardinal<>Ste-Julie',0
-'SV-H26-SVGTFS-Week-end-01',37001,160020,0,'Ste-Julie<>Cardinal<>Principale',0,5100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0,9100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0
-'SV-H26-SVGTFS-Fête-2-01',73100,152740,,'',0,9300,,'',0,8360,,'',0,9640,,'',0,3700,,'',0
-'SV-H26-SVGTFS-Semaine-01',73100,152740,,'',0,9300,,'',0,8360,,'',0,9640,,'',0,3700,,'',0
-'SV-H26-SVGTFS-Fête-2-01',73200,61300,,'',0,9000,,'',0,4000,,'',0
-'SV-H26-SVGTFS-Semaine-01',73200,61300,,'',0,9000,,'',0,4000,,'',0
+'SV-H26-SV_GTFS-Fête-1-01',37000,92750,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,9300,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,10000,0,'Principale<>Cardinal<>Ste-Julie',0
+'SV-H26-SV_GTFS-Fête-1-01',37001,160020,0,'Ste-Julie<>Cardinal<>Principale',0,5100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0,9100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0
+'SV-H26-SV_GTFS-Week-end-01',37000,92750,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,9300,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,10000,0,'Principale<>Cardinal<>Ste-Julie',0
+'SV-H26-SV_GTFS-Week-end-01',37001,160020,0,'Ste-Julie<>Cardinal<>Principale',0,5100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0,9100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0
+'SV-H26-SV_GTFS-Fête-2-01',73100,152740,,'',0,9300,,'',0,8360,,'',0,9640,,'',0,3700,,'',0
+'SV-H26-SV_GTFS-Semaine-01',73100,152740,,'',0,9300,,'',0,8360,,'',0,9640,,'',0,3700,,'',0
+'SV-H26-SV_GTFS-Fête-2-01',73200,61300,,'',0,9000,,'',0,4000,,'',0
+'SV-H26-SV_GTFS-Semaine-01',73200,61300,,'',0,9000,,'',0,4000,,'',0

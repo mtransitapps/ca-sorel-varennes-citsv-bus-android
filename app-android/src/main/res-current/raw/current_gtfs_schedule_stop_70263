@@ -1,8 +1,8 @@
-'SV-H26-SV_GTFS-Fête-1-01',37000,83930,0,'Principale<>Cardinal<>Ste-Julie',0,9600,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,9300,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,10000,0,'Principale<>Cardinal<>Ste-Julie',0
-'SV-H26-SV_GTFS-Fête-1-01',37001,160710,0,'Ste-Julie<>Cardinal<>Principale',0,5100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0,9100,0,'Ste-Julie<>Cardinal<>Principale',0
-'SV-H26-SV_GTFS-Week-end-01',37000,83930,0,'Principale<>Cardinal<>Ste-Julie',0,9600,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,9300,0,'Principale<>Cardinal<>Ste-Julie',0,9100,0,'Principale<>Cardinal<>Ste-Julie',0,10000,0,'Principale<>Cardinal<>Ste-Julie',0
-'SV-H26-SV_GTFS-Week-end-01',37001,160710,0,'Ste-Julie<>Cardinal<>Principale',0,5100,0,'Ste-Julie<>Cardinal<>Principale',0,9400,0,'Ste-Julie<>Cardinal<>Principale',0,9100,0,'Ste-Julie<>Cardinal<>Principale',0
-'SV-H26-SV_GTFS-Fête-2-01',73101,45820,,'',0,9000,,'',0,7900,,'',0,9100,,'',0,4000,,'',0
-'SV-H26-SV_GTFS-Semaine-01',73101,45820,,'',0,9000,,'',0,7900,,'',0,9100,,'',0,4000,,'',0
-'SV-H26-SV_GTFS-Fête-2-01',73201,154700,,'',0,9300,,'',0,8500,,'',0
-'SV-H26-SV_GTFS-Semaine-01',73201,154700,,'',0,9300,,'',0,8500,,'',0
+37000,'SV-H26-SV_GTFS-Fête-1-01',839,,5,0,5,0,96,,1,0,5,0,91,,2,0,5,0,93,,6,0,5,0,91,,3,0,5,0,100,,4,0,5,0
+37000,'SV-H26-SV_GTFS-Week-end-01',839,,39,0,5,0,96,,35,0,5,0,91,,36,0,5,0,93,,40,0,5,0,91,,37,0,5,0,100,,38,0,5,0
+37001,'SV-H26-SV_GTFS-Fête-1-01',1607,,42,0,8,0,51,,43,0,8,0,94,,44,0,8,0,91,,45,0,8,0
+37001,'SV-H26-SV_GTFS-Week-end-01',1607,,81,0,8,0,51,,82,0,8,0,94,,83,0,8,0,91,,84,0,8,0
+73101,'SV-H26-SV_GTFS-Fête-2-01',458,,580,,,0,90,,577,,,0,79,,576,,,0,91,,578,,,0,40,,579,,,0
+73101,'SV-H26-SV_GTFS-Semaine-01',458,,585,,,0,90,,582,,,0,79,,581,,,0,91,,583,,,0,40,,584,,,0
+73201,'SV-H26-SV_GTFS-Fête-2-01',1546,,594,,,0,93,,592,,,0,85,,593,,,0
+73201,'SV-H26-SV_GTFS-Semaine-01',1546,,597,,,0,93,,595,,,0,85,,596,,,0
